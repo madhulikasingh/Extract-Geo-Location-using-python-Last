@@ -1,2 +1,2 @@
-# Extract-Geo-Location-using-python
-Geocoding is the process of transforming a location into a pair of latitude and longitude on the Earth's surface. It also refers to converting geographic coordinates to a location (such as an address), this is often called reverse geocoding. GeoPy is a Python client that provides several popular geocoding web services, it makes it easy to locate the coordinates of an address, a city, or a country.
+Web-Scarpping-using-Python
+Web Scrapping is a technique of extracting information from websites using computer software or applications. The objective of this exercise is to acquire data using a Python with help of BeautifulSoup.
